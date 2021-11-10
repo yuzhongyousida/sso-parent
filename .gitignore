@@ -1,4 +1,4 @@
-/sso-parent.iml
+*.iml
 /sso-demo/target/
 /sso-server/target/
 /sso-client/target/
