@@ -21,6 +21,7 @@ target/
 
 # project release file
 /*.war
+/*.jar
 
 # plugin release file
 /*.zip
@@ -88,3 +89,6 @@ Icon
 ## hack for graddle wrapper
 !wrapper/*.jar
 !**/wrapper/*.jar
+/sso-client/target/
+/sso-demo/target/
+/sso-server/target/
